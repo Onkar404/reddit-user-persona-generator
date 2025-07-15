@@ -143,7 +143,7 @@ Full sample in `Opposite_Wait_persona.txt`
 
 ## 🧠 Author
 
-Built with by Onkar Nigdikar 
+Built by Onkar Nigdikar 
 
 
 ---
