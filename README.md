@@ -143,8 +143,8 @@ Full sample in `Opposite_Wait_persona.txt`
 
 ## 🧠 Author
 
-Built with ❤️ by [Your Name]  
-Feel free to contribute or fork this project!
+Built with by Onkar Nigdikar 
+
 
 ---
 
